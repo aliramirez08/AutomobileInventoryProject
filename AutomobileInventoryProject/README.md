@@ -8,6 +8,6 @@ A Java program to manage automobile inventory.
 
 ## How to Run
 1. Clone the repository:
-    ```git clone [https://github.com/your-username/AutomobileInventoryProject.git]
+      ```git clone https://github.com/your-username/AutomobileInventoryProject.git
 2. Open in Eclipse.
 3. Run `AutomobileInventory.java`.
